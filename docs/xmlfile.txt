@@ -1,0 +1,213 @@
+<?xml version=”1.0” encoding=”UTF-8” ?> 
+<time_period_summary> 
+	<year> 
+		<start_date>2003-02-12 </start_date> 
+		<end_date>2003-02-19</end_date> 
+	</year> 
+	<customer_list>
+		<customer>
+			<customer_name> Rovelli Gifts</customer_name>
+			<address>
+				<street_address> Via Ludovico il Moro 22 </street_address>
+				<city> Bergamo </city>
+				<postal_code> 24100 </postal_code>
+				<country> Italy </country>
+			</address>
+			<order_value> 52151.81 </order_value>
+			<outstanding_balance> 75377.88 </outstanding_balance>
+		</customer>
+	</customer_list>
+	<product_list>
+		<product>
+			<product_name>1980s Black Hawk Helicopter </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> 1980s Black Hawk Helicopter </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 36.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>P-51-D Mustang </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> P-51-D Mustang </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 34.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>1999 Yamaha Speed Boat </product_name>
+			<product_line_name> Ships </product_line_name>
+			<product_sales>
+				<product_name> 1999 Yamaha Speed Boat </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 41.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>1941 Chevrolet Special Deluxe Cabriolet </product_name>
+			<product_line_name> Vintage Cars </product_line_name>
+			<product_sales>
+				<product_name> 1941 Chevrolet Special Deluxe Cabriolet </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 41.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>1928 British Royal Navy Airplane </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> 1928 British Royal Navy Airplane </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 28.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>1900s Vintage Bi-Plane </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> 1900s Vintage Bi-Plane </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 49.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>1937 Horch 930V Limousine </product_name>
+			<product_line_name> Vintage Cars </product_line_name>
+			<product_sales>
+				<product_name> 1937 Horch 930V Limousine </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 31.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>Corsair F4U ( Bird Cage) </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> Corsair F4U ( Bird Cage) </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 50.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>1900s Vintage Tri-Plane </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> 1900s Vintage Tri-Plane </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 26.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>1928 Ford Phaeton Deluxe </product_name>
+			<product_line_name> Vintage Cars </product_line_name>
+			<product_sales>
+				<product_name> 1928 Ford Phaeton Deluxe </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 33.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>1930 Buick Marquette Phaeton </product_name>
+			<product_line_name> Vintage Cars </product_line_name>
+			<product_sales>
+				<product_name> 1930 Buick Marquette Phaeton </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 39.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>American Airlines: B767-300 </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> American Airlines: B767-300 </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 31.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>HMS Bounty </product_name>
+			<product_line_name> Ships </product_line_name>
+			<product_sales>
+				<product_name> HMS Bounty </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 30.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>America West Airlines B757-200 </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> America West Airlines B757-200 </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 34.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>ATA: B757-300 </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> ATA: B757-300 </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 32.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>F/A 18 Hornet 1/72 </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> F/A 18 Hornet 1/72 </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 44.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>American Airlines: MD-11S </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> American Airlines: MD-11S </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 48.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+			<product_name>Boeing X-32A JSF </product_name>
+			<product_line_name> Planes </product_line_name>
+			<product_sales>
+				<product_name> Boeing X-32A JSF </product_name>
+				<intro_date> 2003-02-17 </intro_date>
+				<customer_sales>
+					<customer_name> Rovelli Gifts </customer_name>
+					<units_sold> 48.0 </units_sold>
+				</customer_sales>
+			</product_sales>
+		</product>
+	</product_list>
+	<office_list>
+		<office_city> Paris</office_city>
+		<territory>> EMEA</territory>>
+		<employee_count>> 18</employee_count>>
+		<new_customer>
+			<customer_name> Rovelli Gifts </customer_name>
+			<customer_sales_value> 52151.81 </customer_sales_value>
+		</new_customer>
+	</office_list>
+</time_period_summary> 
